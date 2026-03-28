@@ -1,0 +1,4330 @@
+[
+  {
+    "brand": "Black Burn",
+    "flavor": "Topze",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/topze",
+    "rating": 4.7,
+    "reviews_count": 2,
+    "summary": {
+      "profiles": [
+        "herbal"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 1,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 3,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "свежий травяной вкус",
+        "интересное послевкусие"
+      ],
+      "cons": [
+        "непривычный вкус",
+        "может быть горьким"
+      ],
+      "best_pairings": [
+        "мята",
+        "цитрусы",
+        "ягоды"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "подходит для миксов"
+      ],
+      "one_liner": "Свежий травяной вкус с конфетным послевкусием, интересный выбор для любителей необычного."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Cane Mint",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/cane-mint",
+    "rating": 4.9,
+    "reviews_count": 133,
+    "summary": {
+      "profiles": [
+        "fresh"
+      ],
+      "sweetness": 4,
+      "sourness": 0,
+      "cooling": 5,
+      "strength_feel": 2,
+      "heat_resistance": 4,
+      "mixability": 5,
+      "longevity": 4,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "сладкая и освежающая",
+        "хорошо в миксах"
+      ],
+      "cons": [
+        "может быть слишком сладкой",
+        "не для соло"
+      ],
+      "best_pairings": [
+        "фрукты",
+        "ягоды",
+        "десерты"
+      ],
+      "setup_notes": [
+        "добавлять в миксы",
+        "не перегревать"
+      ],
+      "one_liner": "Идеальная мята для миксов, сладкая и освежающая, подходит всем."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Саркыт",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/sarkyt",
+    "rating": 4.6,
+    "reviews_count": 4,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 4,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 3,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 4,
+      "complexity": 4,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "яркий фруктовый вкус",
+        "хороший баланс"
+      ],
+      "cons": [
+        "может быть слишком кислым",
+        "не для всех"
+      ],
+      "best_pairings": [
+        "яблоко",
+        "гранат",
+        "персик"
+      ],
+      "setup_notes": [
+        "подходит для соло и миксов",
+        "не перегревать"
+      ],
+      "one_liner": "Яркий фруктовый микс с гранатом и персиком, отличный выбор для любителей фруктов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "RoZe T",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/roze-t",
+    "rating": 4.57,
+    "reviews_count": 3,
+    "summary": {
+      "profiles": [
+        "floral",
+        "beverage"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "нежный чайный вкус",
+        "хорошо в миксах"
+      ],
+      "cons": [
+        "недостаточная цветочная глубина",
+        "может быть слишком сладким"
+      ],
+      "best_pairings": [
+        "ягоды",
+        "фрукты",
+        "чай"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "не перегревать"
+      ],
+      "one_liner": "Нежный чайный вкус с ароматом роз, отлично подходит для миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Peach Yogurt",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/peach-yogurt",
+    "rating": 4.5,
+    "reviews_count": 231,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "creamy"
+      ],
+      "sweetness": 4,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 5,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "точное попадание во вкус",
+        "сливочный профиль"
+      ],
+      "cons": [
+        "легко перегреть",
+        "аромка быстро улетает"
+      ],
+      "best_pairings": [
+        "манго",
+        "банан",
+        "персик"
+      ],
+      "setup_notes": [
+        "не любит перегрев",
+        "лучше без сильного колпака"
+      ],
+      "one_liner": "Нежный сливочно-персиковый йогурт, сильный вкус, но чувствительный к жару."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Elka",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/elka",
+    "rating": 4.5,
+    "reviews_count": 72,
+    "summary": {
+      "profiles": [
+        "herbal"
+      ],
+      "sweetness": 2,
+      "sourness": 0,
+      "cooling": 3,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "насыщенный хвойный аромат",
+        "хорошо в миксах"
+      ],
+      "cons": [
+        "не для соло",
+        "может быть слишком смолистым"
+      ],
+      "best_pairings": [
+        "мята",
+        "цитрусы",
+        "ягоды"
+      ],
+      "setup_notes": [
+        "добавлять в миксы",
+        "не перегревать"
+      ],
+      "one_liner": "Пронзительный смолистый аромат елки с легкой свежестью, отлично подходит для миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Basilic",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/basilic",
+    "rating": 4.35,
+    "reviews_count": 58,
+    "summary": {
+      "profiles": [
+        "herbal"
+      ],
+      "sweetness": 2,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 3,
+      "heat_resistance": 3,
+      "mixability": 5,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "яркий насыщенный аромат",
+        "хороший инструмент для миксов"
+      ],
+      "cons": [
+        "может перебивать другие вкусы",
+        "на любителя"
+      ],
+      "best_pairings": [
+        "ягоды",
+        "фрукты",
+        "десерты"
+      ],
+      "setup_notes": [
+        "добавлять в миксы",
+        "не перегревать"
+      ],
+      "one_liner": "Насыщенно-душистый аромат базилика, делает миксы изысканными."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Blueberry",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/blueberry",
+    "rating": 3.9,
+    "reviews_count": 35,
+    "summary": {
+      "profiles": [
+        "berry"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 3,
+      "longevity": 3,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "приятная ягода",
+        "не слишком яркая"
+      ],
+      "cons": [
+        "может мылить",
+        "не запоминающийся вкус"
+      ],
+      "best_pairings": [
+        "малина",
+        "клубника",
+        "цитрусы"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "не перегревать"
+      ],
+      "one_liner": "Неплохая ягодная смесь, но может мылить, лучше в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Green Tea",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/green-tea",
+    "rating": 4.83,
+    "reviews_count": 181,
+    "summary": {
+      "profiles": [
+        "beverage"
+      ],
+      "sweetness": 2,
+      "sourness": 0,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 4,
+      "mixability": 5,
+      "longevity": 4,
+      "complexity": 3,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "приятный аромат зеленого чая",
+        "хорошо в миксах"
+      ],
+      "cons": [
+        "может быть слишком терпким",
+        "не для всех"
+      ],
+      "best_pairings": [
+        "фрукты",
+        "ягоды",
+        "мята"
+      ],
+      "setup_notes": [
+        "подходит для соло и миксов",
+        "не перегревать"
+      ],
+      "one_liner": "Хороший зеленый чай с небольшой терпкостью, отлично подходит для соло и миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Black Honey",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/black-honey",
+    "rating": 4.53,
+    "reviews_count": 129,
+    "summary": {
+      "profiles": [
+        "floral"
+      ],
+      "sweetness": 4,
+      "sourness": 0,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 4,
+      "complexity": 3,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "приятный сладкий аромат",
+        "хорошо в миксах"
+      ],
+      "cons": [
+        "может быть слишком сладким",
+        "не для всех"
+      ],
+      "best_pairings": [
+        "ягоды",
+        "фрукты",
+        "чай"
+      ],
+      "setup_notes": [
+        "подходит для соло и миксов",
+        "не перегревать"
+      ],
+      "one_liner": "Сладкий вкус меда с цветочными нотами, отлично подходит для соло и миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Lemon Sweets",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/lemon-sweets",
+    "rating": 4.2,
+    "reviews_count": 90,
+    "summary": {
+      "profiles": [
+        "citrus",
+        "dessert"
+      ],
+      "sweetness": 4,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "отличная передача вкуса",
+        "сладкий и кислый баланс",
+        "хорош для миксов"
+      ],
+      "cons": [
+        "может быть слишком крепким",
+        "не всем понравится горечь",
+        "не хватает яркости"
+      ],
+      "best_pairings": [
+        "мелисса",
+        "мятный чай",
+        "ягоды"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "лучше курить на 2 углях"
+      ],
+      "one_liner": "Сладкие лимонные леденцы с легкой кислинкой, напоминающие детство."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Apl Strudl",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/apl-strudl",
+    "rating": 4.43,
+    "reviews_count": 3,
+    "summary": {
+      "profiles": [
+        "dessert",
+        "fruit",
+        "spicy"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 3,
+      "longevity": 4,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "точная передача аромата",
+        "приятный вкус",
+        "хорошо в миксах"
+      ],
+      "cons": [
+        "может быть слишком горьким",
+        "не для соло",
+        "нужен баланс с кремом"
+      ],
+      "best_pairings": [
+        "ванильное мороженое",
+        "карамель",
+        "корица"
+      ],
+      "setup_notes": [
+        "лучше курить с холодным мороженым",
+        "не перегревать"
+      ],
+      "one_liner": "Яблочный штрудель с нотами корицы, отлично подходит для миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "IceBerg",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/iceberg",
+    "rating": 4.83,
+    "reviews_count": 28,
+    "summary": {
+      "profiles": [
+        "fresh"
+      ],
+      "sweetness": 0,
+      "sourness": 0,
+      "cooling": 5,
+      "strength_feel": 2,
+      "heat_resistance": 4,
+      "mixability": 5,
+      "longevity": 4,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "яркий холодок",
+        "экономичен в использовании",
+        "хорошо сбивает крепость"
+      ],
+      "cons": [
+        "можно переборщить",
+        "не для соло",
+        "не все любят холодок"
+      ],
+      "best_pairings": [
+        "персик",
+        "молоко",
+        "ягоды"
+      ],
+      "setup_notes": [
+        "добавлять в небольших количествах",
+        "не перегревать"
+      ],
+      "one_liner": "Мощный холодок, отлично подходит для создания свежих миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Фиалковый Лимонад",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/fialkovyy-limonad",
+    "rating": 4.43,
+    "reviews_count": 11,
+    "summary": {
+      "profiles": [
+        "floral",
+        "citrus"
+      ],
+      "sweetness": 2,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "мягкий цветочный аромат",
+        "не навязчивый вкус",
+        "хорош в ягодных миксах"
+      ],
+      "cons": [
+        "может быть слишком легким",
+        "не всем понравится цветочный профиль",
+        "не хватает яркости"
+      ],
+      "best_pairings": [
+        "ягоды",
+        "цитрусовые",
+        "мелисса"
+      ],
+      "setup_notes": [
+        "хорошо подходит для миксов",
+        "можно курить соло"
+      ],
+      "one_liner": "Мягкий цветочный лимонад с легким цитрусовым оттенком."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Give Me Guva",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/give-me-guva",
+    "rating": 4.25,
+    "reviews_count": 2,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 3,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 3,
+      "longevity": 3,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "хорошая гуава",
+        "интересный вкус",
+        "можно экспериментировать"
+      ],
+      "cons": [
+        "киви почти не ощущается",
+        "нужен перегрев для раскрытия",
+        "не всем понравится"
+      ],
+      "best_pairings": [
+        "лайм",
+        "ананас",
+        "мелисса"
+      ],
+      "setup_notes": [
+        "перегрев раскрывает вкус",
+        "хорошо в миксах"
+      ],
+      "one_liner": "Гуава и лайм, интересный вкус, но требует внимания."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Haribon",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/haribon",
+    "rating": 4.55,
+    "reviews_count": 245,
+    "summary": {
+      "profiles": [
+        "candy"
+      ],
+      "sweetness": 5,
+      "sourness": 0,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 4,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "отличная передача вкуса",
+        "вкусно в миксах",
+        "приятный аромат"
+      ],
+      "cons": [
+        "может быть слишком сладким",
+        "не для соло",
+        "нужен баланс"
+      ],
+      "best_pairings": [
+        "кола",
+        "ягоды",
+        "мелисса"
+      ],
+      "setup_notes": [
+        "хорошо в миксах",
+        "можно курить соло"
+      ],
+      "one_liner": "Сладкие мармеладные конфеты с вкусом колы, отлично для миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Raspberries",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/raspberries",
+    "rating": 4.42,
+    "reviews_count": 90,
+    "summary": {
+      "profiles": [
+        "berry"
+      ],
+      "sweetness": 4,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "яркий малиновый вкус",
+        "хорошо в миксах",
+        "не приторный"
+      ],
+      "cons": [
+        "может не хватать глубины",
+        "не всем понравится кислинка",
+        "нужен баланс"
+      ],
+      "best_pairings": [
+        "молоко",
+        "йогурт",
+        "цитрусовые"
+      ],
+      "setup_notes": [
+        "хорошо курить соло",
+        "можно добавлять в миксы"
+      ],
+      "one_liner": "Сладкая малина с легкой кислинкой, отлично подходит для миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Bananini",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/bananini",
+    "rating": 4.05,
+    "reviews_count": 35,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "dessert"
+      ],
+      "sweetness": 4,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 3,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "сладкий спелый банан",
+        "хорошо в миксах",
+        "приятный вкус"
+      ],
+      "cons": [
+        "может быстро пропадать",
+        "нужен баланс с другими вкусами",
+        "не всем понравится"
+      ],
+      "best_pairings": [
+        "шоколад",
+        "молоко",
+        "орехи"
+      ],
+      "setup_notes": [
+        "хорошо в миксах",
+        "можно курить соло"
+      ],
+      "one_liner": "Сладкий банан с легким сливочным оттенком, отлично подходит для миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Yellow Melon",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/yellow-melon",
+    "rating": 4.27,
+    "reviews_count": 7,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 4,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "медовая дыня",
+        "хорошо в миксах",
+        "приятный вкус"
+      ],
+      "cons": [
+        "может быть скучным в соло",
+        "нужен баланс",
+        "не всем понравится"
+      ],
+      "best_pairings": [
+        "персик",
+        "молоко",
+        "цитрусовые"
+      ],
+      "setup_notes": [
+        "хорошо в миксах",
+        "можно курить соло"
+      ],
+      "one_liner": "Медовая дыня с легким травянистым оттенком, отлично подходит для миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Ice Baby",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/ice-baby",
+    "rating": 3.55,
+    "reviews_count": 218,
+    "summary": {
+      "profiles": [
+        "fresh"
+      ],
+      "sweetness": 2,
+      "sourness": 1,
+      "cooling": 3,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 2,
+      "longevity": 3,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "легкий холодок",
+        "можно использовать в миксах",
+        "яркие ягоды"
+      ],
+      "cons": [
+        "невнятный вкус",
+        "не всем понравится",
+        "может быть слишком легким"
+      ],
+      "best_pairings": [
+        "ягоды",
+        "цитрусовые",
+        "мелисса"
+      ],
+      "setup_notes": [
+        "хорошо в миксах",
+        "можно курить соло"
+      ],
+      "one_liner": "Легкий холодок с ягодным вкусом, но требует внимания."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Ananas Shock",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/ananas-shock",
+    "rating": 4.07,
+    "reviews_count": 170,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "sour"
+      ],
+      "sweetness": 2,
+      "sourness": 4,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 5,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "стабильный ананас",
+        "долго держится кислота"
+      ],
+      "cons": [
+        "слишком кислый",
+        "не натуральный вкус"
+      ],
+      "best_pairings": [
+        "лимон",
+        "маракуйя",
+        "мята"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "хорош в миксах"
+      ],
+      "one_liner": "Кислый ананас, отлично подходит для миксов, но может перебивать другие вкусы."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Lemon Shock",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/lemon-shock",
+    "rating": 4.7,
+    "reviews_count": 108,
+    "summary": {
+      "profiles": [
+        "citrus"
+      ],
+      "sweetness": 1,
+      "sourness": 5,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 4,
+      "mixability": 5,
+      "longevity": 4,
+      "complexity": 3,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "чистый лимон",
+        "универсальный"
+      ],
+      "cons": [
+        "может подсушивать",
+        "в миксах требует осторожности"
+      ],
+      "best_pairings": [
+        "лайм",
+        "мята",
+        "грейпфрут"
+      ],
+      "setup_notes": [
+        "не перебарщивать в миксах",
+        "хорош в соло"
+      ],
+      "one_liner": "Чистый кислый лимон, идеален для миксов и соло."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Red Orange",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/red-orange",
+    "rating": 4.45,
+    "reviews_count": 69,
+    "summary": {
+      "profiles": [
+        "citrus",
+        "fruit"
+      ],
+      "sweetness": 3,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 5,
+      "longevity": 4,
+      "complexity": 3,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "яркий вкус",
+        "не горький"
+      ],
+      "cons": [
+        "усредненный вкус",
+        "может быть стерильным"
+      ],
+      "best_pairings": [
+        "мандарин",
+        "персик",
+        "мята"
+      ],
+      "setup_notes": [
+        "хорош в соло и миксах",
+        "не требует особого подхода"
+      ],
+      "one_liner": "Сочный красный апельсин, отлично подходит как для соло, так и для миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Peach Killer",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/peach-killer",
+    "rating": 4.2,
+    "reviews_count": 60,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "creamy"
+      ],
+      "sweetness": 4,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "вкусный персик",
+        "нет мыльности"
+      ],
+      "cons": [
+        "может быть химозным",
+        "не всегда яркий"
+      ],
+      "best_pairings": [
+        "сливки",
+        "малина",
+        "ананас"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "хорош в миксах"
+      ],
+      "one_liner": "Летний персик, сладкий и приятный, отлично подходит для миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Blackcola",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/blackcola",
+    "rating": 4.17,
+    "reviews_count": 47,
+    "summary": {
+      "profiles": [
+        "beverage"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "хорошая кола",
+        "яркая"
+      ],
+      "cons": [
+        "может перебивать миксы",
+        "травянистый вкус"
+      ],
+      "best_pairings": [
+        "ягоды",
+        "апельсин",
+        "лимон"
+      ],
+      "setup_notes": [
+        "не перебарщивать в миксах",
+        "хороша в сочетаниях"
+      ],
+      "one_liner": "Классическая кола, яркая и хорошо сочетается с ягодами."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Lime Shock",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/lime-shock",
+    "rating": 2.0,
+    "reviews_count": 33,
+    "summary": {
+      "profiles": [
+        "citrus"
+      ],
+      "sweetness": 1,
+      "sourness": 5,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 2,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "кислый лайм"
+      ],
+      "cons": [
+        "пластиковый вкус",
+        "невыразительный"
+      ],
+      "best_pairings": [
+        "лимон",
+        "мята",
+        "грейпфрут"
+      ],
+      "setup_notes": [
+        "не рекомендован в соло",
+        "требует осторожности"
+      ],
+      "one_liner": "Кислый лайм, но может показаться невыразительным."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Grapefruit",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/grapefruit",
+    "rating": 3.8,
+    "reviews_count": 28,
+    "summary": {
+      "profiles": [
+        "citrus"
+      ],
+      "sweetness": 2,
+      "sourness": 3,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "хорошая кислинка",
+        "освежающий вкус"
+      ],
+      "cons": [
+        "невыразительный",
+        "может быть слабым"
+      ],
+      "best_pairings": [
+        "лимон",
+        "мята",
+        "апельсин"
+      ],
+      "setup_notes": [
+        "хорош в миксах",
+        "может требовать добавления других вкусов"
+      ],
+      "one_liner": "Освежающий грейпфрут с легкой горчинкой, хорошо подходит для миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Chupa Graper",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/chupa-graper",
+    "rating": 3.6,
+    "reviews_count": 223,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "candy"
+      ],
+      "sweetness": 3,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 3,
+      "longevity": 3,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "сладкий виноград"
+      ],
+      "cons": [
+        "химозный вкус",
+        "не натуральный"
+      ],
+      "best_pairings": [
+        "лимон",
+        "мята",
+        "персик"
+      ],
+      "setup_notes": [
+        "хорош в миксах",
+        "не перегревать"
+      ],
+      "one_liner": "Вкус виноградного чупа-чупса, сладкий, но может показаться химозным."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Malibu",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/malibu",
+    "rating": 4.7,
+    "reviews_count": 102,
+    "summary": {
+      "profiles": [
+        "creamy",
+        "dessert"
+      ],
+      "sweetness": 4,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 5,
+      "longevity": 4,
+      "complexity": 3,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "сладкий вкус",
+        "хорош для миксов"
+      ],
+      "cons": [
+        "может быть слишком сладким",
+        "не всем понравится"
+      ],
+      "best_pairings": [
+        "клубника",
+        "банан",
+        "сливки"
+      ],
+      "setup_notes": [
+        "хорош в соло и миксах",
+        "не перегревать"
+      ],
+      "one_liner": "Сладкий сливочно-клубничный вкус, отлично подходит для миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Papaya v obed",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/papaya-v-obed",
+    "rating": 4.5,
+    "reviews_count": 85,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 3,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "вкусная папайя",
+        "долго держится аромат"
+      ],
+      "cons": [
+        "может быть блеклым",
+        "не всегда яркий"
+      ],
+      "best_pairings": [
+        "ананас",
+        "маракуйя",
+        "персик"
+      ],
+      "setup_notes": [
+        "хорош в миксах",
+        "не перегревать"
+      ],
+      "one_liner": "Вкусная папайя, сладкая и освежающая, отлично подходит для миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Overdose",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/overdose",
+    "rating": 4.1,
+    "reviews_count": 66,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 3,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "хорошо подходит для миксов",
+        "средняя крепость"
+      ],
+      "cons": [
+        "не самый яркий вкус",
+        "может быть скучным в соло"
+      ],
+      "best_pairings": [
+        "лимон",
+        "лайм",
+        "апельсин"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "не перегревать"
+      ],
+      "one_liner": "Крепкий вкус, отлично подходит для создания миксов с цитрусовыми."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Pear lemonade",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/pear-lemonade",
+    "rating": 4.2,
+    "reviews_count": 65,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "dessert"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "приятный вкус груши",
+        "хорошее исполнение"
+      ],
+      "cons": [
+        "вкус быстро уходит",
+        "не очень насыщенный"
+      ],
+      "best_pairings": [
+        "лимон",
+        "мелисса",
+        "мята"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "лучше в миксах"
+      ],
+      "one_liner": "Сладкий грушевый лимонад с легкими леденцовыми нотками."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Siberian soda",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/siberian-soda",
+    "rating": 4.12,
+    "reviews_count": 65,
+    "summary": {
+      "profiles": [
+        "beverage"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 1,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 3,
+      "longevity": 3,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "приятный вкус",
+        "хорошо в миксах"
+      ],
+      "cons": [
+        "не хватает оригинальности",
+        "похож на колу"
+      ],
+      "best_pairings": [
+        "елка",
+        "мята",
+        "цитрусы"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "не перегревать"
+      ],
+      "one_liner": "Вкус колы с легким оттенком елки, хорошо подходит для миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Red Energy",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/red-energy",
+    "rating": 3.83,
+    "reviews_count": 64,
+    "summary": {
+      "profiles": [
+        "beverage"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "ностальгический вкус",
+        "хорошо в миксах"
+      ],
+      "cons": [
+        "не самый яркий",
+        "может быть скучным в соло"
+      ],
+      "best_pairings": [
+        "черная смородина",
+        "цитрусы",
+        "мелисса"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "не перегревать"
+      ],
+      "one_liner": "Классический вкус энергетика, хорошо подходит для миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Melon Halls",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/melon-halls",
+    "rating": 4.67,
+    "reviews_count": 60,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "dessert"
+      ],
+      "sweetness": 4,
+      "sourness": 1,
+      "cooling": 2,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 4,
+      "complexity": 3,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "отличный вкус дыни",
+        "приятная свежесть"
+      ],
+      "cons": [
+        "может быть слишком сладким",
+        "не всем понравится"
+      ],
+      "best_pairings": [
+        "мята",
+        "цитрусы",
+        "тропические фрукты"
+      ],
+      "setup_notes": [
+        "подходит для соло и миксов",
+        "не перегревать"
+      ],
+      "one_liner": "Свежая дыня с легким холодком, отлично подходит для соло и миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Real P.F.",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/real-p-f",
+    "rating": 3.95,
+    "reviews_count": 60,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 3,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "хорошая маракуйя",
+        "подходит для миксов"
+      ],
+      "cons": [
+        "не слишком яркая",
+        "может быть скучной в соло"
+      ],
+      "best_pairings": [
+        "ананас",
+        "мелон",
+        "цитрусы"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "не перегревать"
+      ],
+      "one_liner": "Сложный вкус маракуйи, отлично подходит для создания миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Rising Star",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/rising-star",
+    "rating": 3.67,
+    "reviews_count": 42,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 3,
+      "sourness": 2,
+      "cooling": 1,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "хорош для миксов",
+        "средняя крепость"
+      ],
+      "cons": [
+        "невнятный аромат",
+        "манго не яркое"
+      ],
+      "best_pairings": [
+        "маракуйя",
+        "ананас",
+        "мелон"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "не перегревать"
+      ],
+      "one_liner": "Невнятный манго с холодком, лучше использовать в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Asian Lychee",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/asian-lychee",
+    "rating": 3.83,
+    "reviews_count": 35,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "floral"
+      ],
+      "sweetness": 4,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "яркий вкус личи",
+        "сладкий"
+      ],
+      "cons": [
+        "быстро теряет вкус",
+        "не всем понравится"
+      ],
+      "best_pairings": [
+        "мелисса",
+        "тропические фрукты",
+        "мята"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "не перегревать"
+      ],
+      "one_liner": "Сладкий и насыщенный вкус личи, отлично подходит для миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Gooseberry shock",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/gooseberry-shock",
+    "rating": 4.35,
+    "reviews_count": 32,
+    "summary": {
+      "profiles": [
+        "berry"
+      ],
+      "sweetness": 3,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "необычный вкус",
+        "хорошо в миксах"
+      ],
+      "cons": [
+        "может не всем понравиться",
+        "не слишком яркий"
+      ],
+      "best_pairings": [
+        "мята",
+        "цитрусы",
+        "ягоды"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "не перегревать"
+      ],
+      "one_liner": "Кисло-сладкий вкус крыжовника, отлично подходит для ягодных миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Lemon Waffles",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/lemon-waffles",
+    "rating": 3.5,
+    "reviews_count": 28,
+    "summary": {
+      "profiles": [
+        "dessert"
+      ],
+      "sweetness": 4,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 1,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "вкусные лимонные вафли",
+        "попадание во вкус"
+      ],
+      "cons": [
+        "боится перегрева",
+        "не яркий"
+      ],
+      "best_pairings": [
+        "крем",
+        "мята",
+        "цитрусы"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "лучше в миксах"
+      ],
+      "one_liner": "Хрустящие лимонные вафли, но боятся перегрева."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Something Fresh",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/something-fresh",
+    "rating": 4.33,
+    "reviews_count": 21,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "citrus"
+      ],
+      "sweetness": 4,
+      "sourness": 1,
+      "cooling": 1,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "яркий летний вкус",
+        "не приторный",
+        "хорошо курится"
+      ],
+      "cons": [
+        "не хватает яркости груши",
+        "может быть перегрет",
+        "не всегда доступен"
+      ],
+      "best_pairings": [
+        "цитрусовые",
+        "груша",
+        "маракуйя"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "подходит для миксов"
+      ],
+      "one_liner": "Ягодно-фруктовое цунами с холодком, идеальный выбор для жарких вечеров."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "На чиле feat. Джиган",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/na-chile-feat-dzhigan",
+    "rating": 3.9,
+    "reviews_count": 106,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "tropical"
+      ],
+      "sweetness": 4,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 5,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "приятный тропический вкус",
+        "хорошо курится в соло",
+        "необычный аромат"
+      ],
+      "cons": [
+        "недостаток яркости",
+        "может показаться блеклым",
+        "не всем понравится"
+      ],
+      "best_pairings": [
+        "цитрусовый микс",
+        "маракуйя",
+        "фрукты"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "можно курить в соло"
+      ],
+      "one_liner": "Тропический сок с нотами детства, отлично подходит для летнего отдыха."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Cheesecake",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/cheesecake",
+    "rating": 3.5,
+    "reviews_count": 85,
+    "summary": {
+      "profiles": [
+        "dessert",
+        "creamy"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "яркий вкус",
+        "долго держится",
+        "не приторный"
+      ],
+      "cons": [
+        "не соответствует чизкейку",
+        "может показаться суховатым",
+        "недостаток насыщенности"
+      ],
+      "best_pairings": [
+        "десертные миксы",
+        "ягоды",
+        "печенье"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "хорошо сочетается с ягодами"
+      ],
+      "one_liner": "Необычный чизкейк с ярким вкусом, который стоит попробовать в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Brownie",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/brownie",
+    "rating": 4.1,
+    "reviews_count": 72,
+    "summary": {
+      "profiles": [
+        "dessert",
+        "creamy"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "приятный шоколадный вкус",
+        "хорошо сочетается с другими табаками",
+        "долговечный аромат"
+      ],
+      "cons": [
+        "может быть суховатым",
+        "недостаток выпечки",
+        "горьковатый вкус"
+      ],
+      "best_pairings": [
+        "фисташковое мороженое",
+        "чай",
+        "булочка с корицей"
+      ],
+      "setup_notes": [
+        "подходит для десертных миксов",
+        "может быть сухим в соло"
+      ],
+      "one_liner": "Шоколадный брауни с нотами выпечки, отлично подходит для десертных миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Ekzo Mango",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/ekzo-mango",
+    "rating": 3.35,
+    "reviews_count": 52,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "tropical"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 3,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "не приторное манго",
+        "интересный вкус",
+        "подходит для миксов"
+      ],
+      "cons": [
+        "травянистое",
+        "недостаток сладости",
+        "не всем понравится"
+      ],
+      "best_pairings": [
+        "цитрусовые",
+        "ягоды",
+        "тропические фрукты"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "может быть травянистым"
+      ],
+      "one_liner": "Травянистое манго, интересный выбор для любителей тропиков."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Pomelo",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/pomelo",
+    "rating": 4.22,
+    "reviews_count": 35,
+    "summary": {
+      "profiles": [
+        "citrus",
+        "fruit"
+      ],
+      "sweetness": 3,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "освежающий вкус",
+        "хорошо курится",
+        "подходит для цитрусовых миксов"
+      ],
+      "cons": [
+        "может показаться химозным",
+        "недостаток сладости",
+        "не всем понравится"
+      ],
+      "best_pairings": [
+        "цитрусовые",
+        "мелисса",
+        "маракуйя"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "может быть перегрет"
+      ],
+      "one_liner": "Кисло-сладкий вкус помело, освежающий и приятный для курения."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Алматинская халва",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/almatinskaya-khalva",
+    "rating": 3.92,
+    "reviews_count": 4,
+    "summary": {
+      "profiles": [
+        "dessert",
+        "creamy"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 3,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "интересный вкус",
+        "не приторный",
+        "хорошо раскрывается"
+      ],
+      "cons": [
+        "может быть суховатым",
+        "не всем понравится",
+        "недостаток насыщенности"
+      ],
+      "best_pairings": [
+        "чай",
+        "орехи",
+        "десерты"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "может быть перегрет"
+      ],
+      "one_liner": "Сладковато-ореховый аромат халвы, интересный выбор для любителей десертов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "﻿Epic Yogurt",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/%EF%BB%BFepic-yogurt",
+    "rating": 3.55,
+    "reviews_count": 107,
+    "summary": {
+      "profiles": [
+        "creamy",
+        "dessert"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "нежный йогурт",
+        "хорошо сочетается с ягодами",
+        "долго держится"
+      ],
+      "cons": [
+        "недостаток яркости черники",
+        "может быть перегрет",
+        "не всем понравится"
+      ],
+      "best_pairings": [
+        "ягоды",
+        "цитрусовые",
+        "десерты"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "подходит для миксов"
+      ],
+      "one_liner": "Нежный черничный йогурт, который стоит попробовать в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Strawberry Jam",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/strawberry-jam",
+    "rating": 3.75,
+    "reviews_count": 79,
+    "summary": {
+      "profiles": [
+        "dessert",
+        "fruit"
+      ],
+      "sweetness": 4,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "сладкая клубника",
+        "хорошая насыщенность",
+        "приятный вкус"
+      ],
+      "cons": [
+        "слишком сладко",
+        "может показаться простым",
+        "не всем понравится"
+      ],
+      "best_pairings": [
+        "банан",
+        "другие ягоды",
+        "десерты"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "может быть перегрет"
+      ],
+      "one_liner": "Сладкий клубничный джем, отлично подходит для десертных миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Pineapple Yogurt",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/pineapple-yogurt",
+    "rating": 2.9,
+    "reviews_count": 73,
+    "summary": {
+      "profiles": [
+        "creamy",
+        "fruit"
+      ],
+      "sweetness": 2,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "можно использовать в миксах",
+        "чувствуется ананас",
+        "не приторный"
+      ],
+      "cons": [
+        "недостаток насыщенности",
+        "может быть скучным",
+        "не всем понравится"
+      ],
+      "best_pairings": [
+        "ягоды",
+        "цитрусовые",
+        "десерты"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "может быть перегрет"
+      ],
+      "one_liner": "Слабый ананасовый йогурт, лучше использовать в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "LULO",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/lulo",
+    "rating": 3.35,
+    "reviews_count": 54,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "creamy"
+      ],
+      "sweetness": 3,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "экзотический вкус",
+        "сливочные ноты"
+      ],
+      "cons": [
+        "неоднозначный вкус",
+        "не для соло"
+      ],
+      "best_pairings": [
+        "ананас",
+        "маракуйя",
+        "апельсин"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "хорошо в миксах"
+      ],
+      "one_liner": "Экзотический вкус с фруктами и сливочными нотами, отлично подходит для миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Cranberry Shock",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/cranberry-shock",
+    "rating": 3.67,
+    "reviews_count": 50,
+    "summary": {
+      "profiles": [
+        "berry"
+      ],
+      "sweetness": 2,
+      "sourness": 4,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "адекватная клюква",
+        "кислота"
+      ],
+      "cons": [
+        "химозная кислинка",
+        "не для соло"
+      ],
+      "best_pairings": [
+        "ягоды",
+        "цитрусы",
+        "алкогольные миксы"
+      ],
+      "setup_notes": [
+        "хорошо в миксах",
+        "не перегревать"
+      ],
+      "one_liner": "Кислая клюква с терпким послевкусием, отлично подходит для миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Famous Apple",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/famous-apple",
+    "rating": 2.77,
+    "reviews_count": 48,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 2,
+      "sourness": 1,
+      "cooling": 1,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "холодок",
+        "в миксах"
+      ],
+      "cons": [
+        "анисовый вкус",
+        "не для соло"
+      ],
+      "best_pairings": [
+        "мелисса",
+        "лимон",
+        "мята"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "в миксах лучше"
+      ],
+      "one_liner": "Кисло-сладкое зеленое яблоко с холодком, лучше в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Pineapple",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/pineapple",
+    "rating": 2.88,
+    "reviews_count": 36,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 2,
+      "sourness": 3,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 2,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "яркий вкус",
+        "кислота"
+      ],
+      "cons": [
+        "блеклый",
+        "не натуральный"
+      ],
+      "best_pairings": [
+        "кокос",
+        "маракуйя",
+        "апельсин"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "в миксах лучше"
+      ],
+      "one_liner": "Яркий ананас с кислотой, но может показаться блеклым."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "White Grape",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/white-grape",
+    "rating": 3.88,
+    "reviews_count": 24,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 3,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "классический вкус",
+        "сочный"
+      ],
+      "cons": [
+        "не новизна",
+        "быстро теряется"
+      ],
+      "best_pairings": [
+        "виноград",
+        "ягоды",
+        "цитрусы"
+      ],
+      "setup_notes": [
+        "в миксах лучше",
+        "не для соло"
+      ],
+      "one_liner": "Классический белый виноград, хорошо в миксах, но не новинка."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "На расслабоне feat. Джиган",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/na-rasslabone-feat-dzhigan",
+    "rating": 3.0,
+    "reviews_count": 86,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "приятный банан",
+        "в миксах"
+      ],
+      "cons": [
+        "химозный вкус",
+        "быстро пропадает"
+      ],
+      "best_pairings": [
+        "кокос",
+        "молоко",
+        "ягоды"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "в миксах лучше"
+      ],
+      "one_liner": "Банановое суфле, приятно, но быстро теряет вкус."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Strawberry Coconut",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/strawberry-coconut",
+    "rating": 4.17,
+    "reviews_count": 51,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "creamy"
+      ],
+      "sweetness": 4,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "сладость кокоса",
+        "освежающий"
+      ],
+      "cons": [
+        "мало клубники",
+        "слишком сладко"
+      ],
+      "best_pairings": [
+        "клубника",
+        "мята",
+        "цитрусы"
+      ],
+      "setup_notes": [
+        "в миксах отлично",
+        "не перегревать"
+      ],
+      "one_liner": "Сладкий кокос с клубникой и эвкалиптом, хорошо в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Sundaysun",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/sundaysun",
+    "rating": 3.8,
+    "reviews_count": 51,
+    "summary": {
+      "profiles": [
+        "citrus"
+      ],
+      "sweetness": 3,
+      "sourness": 3,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "цитрусовый микс",
+        "освежающий"
+      ],
+      "cons": [
+        "горечь от грейпфрута",
+        "не для соло"
+      ],
+      "best_pairings": [
+        "лимон",
+        "апельсин",
+        "мята"
+      ],
+      "setup_notes": [
+        "в миксах лучше",
+        "не перегревать"
+      ],
+      "one_liner": "Цитрусовый микс для жаркого дня, хорошо в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Elderberry Shock",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/elderberry-shock",
+    "rating": 2.93,
+    "reviews_count": 43,
+    "summary": {
+      "profiles": [
+        "berry"
+      ],
+      "sweetness": 2,
+      "sourness": 4,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 2,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "кислота",
+        "ягодный вкус"
+      ],
+      "cons": [
+        "химозный",
+        "пустой вкус"
+      ],
+      "best_pairings": [
+        "ягоды",
+        "цитрусы",
+        "алкогольные миксы"
+      ],
+      "setup_notes": [
+        "в миксах лучше",
+        "не перегревать"
+      ],
+      "one_liner": "Кисло-ягодный вкус бузины, лучше в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Juicy Smoothie",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/juicy-smoothie",
+    "rating": 3.32,
+    "reviews_count": 26,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 4,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "сладкий вкус",
+        "тропический"
+      ],
+      "cons": [
+        "быстро теряет аромат",
+        "непонятный"
+      ],
+      "best_pairings": [
+        "кокос",
+        "папайя",
+        "ананас"
+      ],
+      "setup_notes": [
+        "в миксах лучше",
+        "не перегревать"
+      ],
+      "one_liner": "Сладкая мешанина с кокосом и папайей, хорошо в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Клюквенный морс",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/klyukvennyy-mors",
+    "rating": 3.67,
+    "reviews_count": 7,
+    "summary": {
+      "profiles": [
+        "berry",
+        "fruit"
+      ],
+      "sweetness": 3,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 2,
+      "best_usage": [
+        "mix",
+        "solo"
+      ],
+      "pros": [
+        "освежающий вкус",
+        "хорошо в миксах"
+      ],
+      "cons": [
+        "не яркий вкус",
+        "быстро теряет аромат"
+      ],
+      "best_pairings": [
+        "малина",
+        "черная смородина",
+        "ананас"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "хорошо в миксах"
+      ],
+      "one_liner": "Кисло-сладкий морс с клюквой, хорошо сочетается с ягодами."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Shock Currant Shock",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/shock-currant-shock",
+    "rating": 4.5,
+    "reviews_count": 97,
+    "summary": {
+      "profiles": [
+        "berry",
+        "citrus"
+      ],
+      "sweetness": 2,
+      "sourness": 4,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 5,
+      "longevity": 4,
+      "complexity": 3,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "кислый вкус",
+        "хорошая стойкость"
+      ],
+      "cons": [
+        "не для новичков",
+        "может быть слишком кислым"
+      ],
+      "best_pairings": [
+        "ягоды",
+        "цитрусы",
+        "мяту"
+      ],
+      "setup_notes": [
+        "хорошо курится в соло",
+        "можно смешивать с другими ягодами"
+      ],
+      "one_liner": "Кислый микс смородины, идеален для любителей кислоты."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Skittles",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/skittles",
+    "rating": 3.0,
+    "reviews_count": 69,
+    "summary": {
+      "profiles": [
+        "candy",
+        "fruit"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "воспоминания о детстве",
+        "приятный вкус"
+      ],
+      "cons": [
+        "не яркий вкус",
+        "кислоты не хватает"
+      ],
+      "best_pairings": [
+        "цитрусы",
+        "ягоды",
+        "десерты"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "лучше в миксах"
+      ],
+      "one_liner": "Вкус конфет Скиттлс, но не хватает яркости."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Garnet",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/garnet",
+    "rating": 3.62,
+    "reviews_count": 48,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 2,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 2,
+      "best_usage": [
+        "mix",
+        "solo"
+      ],
+      "pros": [
+        "терпкий вкус",
+        "можно смешивать"
+      ],
+      "cons": [
+        "не хватает насыщенности",
+        "горечь на послевкусие"
+      ],
+      "best_pairings": [
+        "малина",
+        "черная смородина",
+        "персик"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "хорошо в миксах"
+      ],
+      "one_liner": "Терпкий вкус граната, не хватает яркости и кислинки."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "SALAK",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/salak",
+    "rating": 3.2,
+    "reviews_count": 48,
+    "summary": {
+      "profiles": [
+        "tropical",
+        "fruit"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "экзотический вкус",
+        "приятный аромат"
+      ],
+      "cons": [
+        "быстро теряет аромат",
+        "не яркий вкус"
+      ],
+      "best_pairings": [
+        "банан",
+        "ананас",
+        "ягоды"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "хорошо в миксах"
+      ],
+      "one_liner": "Экзотический вкус салака, но быстро теряет аромат."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Something Berry",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/something-berry",
+    "rating": 4.1,
+    "reviews_count": 45,
+    "summary": {
+      "profiles": [
+        "berry"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "ягодный микс",
+        "хорошо в миксах"
+      ],
+      "cons": [
+        "необычный вкус",
+        "может быть мыльным"
+      ],
+      "best_pairings": [
+        "малина",
+        "черника",
+        "клубника"
+      ],
+      "setup_notes": [
+        "хорошо в миксах",
+        "не перегревать"
+      ],
+      "one_liner": "Ягодный микс, подходит для простых покуров."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Creme Brulee",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/creme-brulee",
+    "rating": 3.88,
+    "reviews_count": 42,
+    "summary": {
+      "profiles": [
+        "dessert",
+        "creamy"
+      ],
+      "sweetness": 4,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix",
+        "solo"
+      ],
+      "pros": [
+        "хорошее попадание во вкус",
+        "можно смешивать"
+      ],
+      "cons": [
+        "кислота на послевкусии",
+        "не всегда яркий вкус"
+      ],
+      "best_pairings": [
+        "брауни",
+        "чизкейк",
+        "фрукты"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "лучше в миксах"
+      ],
+      "one_liner": "Крем-брюле с карамельной корочкой, но может быть кисловатым."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Peachberry",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/peachberry",
+    "rating": 3.0,
+    "reviews_count": 42,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "сладкий аромат",
+        "можно смешивать"
+      ],
+      "cons": [
+        "не яркий вкус",
+        "мыльный привкус"
+      ],
+      "best_pairings": [
+        "персик",
+        "земляника",
+        "ягоды"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "хорошо в миксах"
+      ],
+      "one_liner": "Сладкий персик с земляникой, но не хватает яркости."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Pinacolada",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/pinacolada",
+    "rating": 3.02,
+    "reviews_count": 38,
+    "summary": {
+      "profiles": [
+        "tropical",
+        "beverage"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "тропический вкус",
+        "можно смешивать"
+      ],
+      "cons": [
+        "химозный ананас",
+        "не хватает кокоса"
+      ],
+      "best_pairings": [
+        "ананас",
+        "кокос",
+        "ягоды"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "хорошо в миксах"
+      ],
+      "one_liner": "Домашняя пина колада, но ананас слишком химозный."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Feijoa Jam",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/feijoa-jam",
+    "rating": 3.95,
+    "reviews_count": 17,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "beverage"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix",
+        "solo"
+      ],
+      "pros": [
+        "приятный травянистый вкус",
+        "хорошо в миксах"
+      ],
+      "cons": [
+        "может быть пустоват",
+        "горечь на выдохе"
+      ],
+      "best_pairings": [
+        "фрукты",
+        "ягоды",
+        "травы"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "хорошо в миксах"
+      ],
+      "one_liner": "Легкий травянистый вкус фейхоа, хорошо курится в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Barberry Shock",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/barberry-shock",
+    "rating": 3.93,
+    "reviews_count": 72,
+    "summary": {
+      "profiles": [
+        "berry",
+        "fruit",
+        "candy"
+      ],
+      "sweetness": 4,
+      "sourness": 3,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 5,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "сладкий и кислый",
+        "хорошо в миксах",
+        "конфетный вкус"
+      ],
+      "cons": [
+        "может надоесть",
+        "не хватает яркости"
+      ],
+      "best_pairings": [
+        "смородина",
+        "арбуз",
+        "черные ягоды"
+      ],
+      "setup_notes": [
+        "подходит для ягодных миксов",
+        "добавлять в небольших количествах"
+      ],
+      "one_liner": "Сладкий и кислый барбарис, отлично подходит для ягодных миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Nutella",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/nutella",
+    "rating": 3.93,
+    "reviews_count": 50,
+    "summary": {
+      "profiles": [
+        "creamy",
+        "dessert",
+        "beverage"
+      ],
+      "sweetness": 4,
+      "sourness": 0,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "ореховый вкус",
+        "долго держится",
+        "хорош в миксах"
+      ],
+      "cons": [
+        "больше на орехи",
+        "может горчить"
+      ],
+      "best_pairings": [
+        "кокос",
+        "сливки",
+        "неаромные табаки"
+      ],
+      "setup_notes": [
+        "играть с жаром",
+        "лучше в миксах"
+      ],
+      "one_liner": "Шоколадно-ореховая паста, напоминает сникерс, хорошо в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Raspberry Shock",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/raspberry-shock",
+    "rating": 3.6,
+    "reviews_count": 43,
+    "summary": {
+      "profiles": [
+        "berry",
+        "fruit",
+        "sour"
+      ],
+      "sweetness": 2,
+      "sourness": 4,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 4,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "кислый вкус",
+        "хорош в миксах",
+        "неплохая малина"
+      ],
+      "cons": [
+        "быстро надоедает",
+        "плоский вкус"
+      ],
+      "best_pairings": [
+        "сгущенка",
+        "чизкейк",
+        "фруктовые миксы"
+      ],
+      "setup_notes": [
+        "добавлять в небольших количествах",
+        "не пробовать в соло"
+      ],
+      "one_liner": "Кислая малина, хорошо подходит для фруктовых миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Etalon Melon",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/etalon-melon",
+    "rating": 3.9,
+    "reviews_count": 41,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "tropical",
+        "dessert"
+      ],
+      "sweetness": 4,
+      "sourness": 0,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 3,
+      "mixability": 3,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "solo"
+      ],
+      "pros": [
+        "сладкая дыня",
+        "насыщенный вкус",
+        "хороша в соло"
+      ],
+      "cons": [
+        "может напоминать манго",
+        "нуждается в доработке"
+      ],
+      "best_pairings": [
+        "фрукты",
+        "сладкие миксы",
+        "молочные"
+      ],
+      "setup_notes": [
+        "подходит для соло",
+        "не перегревать"
+      ],
+      "one_liner": "Сладкая дыня с медовым послевкусием, классика жанра."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Sou-sep",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/sou-sep",
+    "rating": 3.38,
+    "reviews_count": 36,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "herbal",
+        "fresh"
+      ],
+      "sweetness": 2,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "яркая база",
+        "хороша в миксах",
+        "насыщенный вкус"
+      ],
+      "cons": [
+        "не хватает яблока",
+        "не для соло"
+      ],
+      "best_pairings": [
+        "травяные миксы",
+        "фрукты",
+        "ананас"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "не пробовать в соло"
+      ],
+      "one_liner": "Сметанное яблоко с нотками ананаса, хороша в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Something Tropical",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/something-tropical",
+    "rating": 3.47,
+    "reviews_count": 31,
+    "summary": {
+      "profiles": [
+        "tropical",
+        "fruit",
+        "candy"
+      ],
+      "sweetness": 3,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "сладкий",
+        "подходит для миксов",
+        "не требует сложных сочетаний"
+      ],
+      "cons": [
+        "невнятный вкус",
+        "не для соло"
+      ],
+      "best_pairings": [
+        "фрукты",
+        "цитрусы",
+        "сладкие миксы"
+      ],
+      "setup_notes": [
+        "подходит для простых миксов",
+        "не перегревать"
+      ],
+      "one_liner": "Тропическая фруктовая мешанина, хороша для простых миксов."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Kiwi Stoner",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/kiwi-stoner",
+    "rating": 3.0,
+    "reviews_count": 93,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "fresh",
+        "candy"
+      ],
+      "sweetness": 2,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 2,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "solo"
+      ],
+      "pros": [
+        "сладкий",
+        "не приторный",
+        "легкий"
+      ],
+      "cons": [
+        "вкус быстро улетучивается",
+        "не хватает кислоты"
+      ],
+      "best_pairings": [
+        "фрукты",
+        "сладкие миксы",
+        "молочные"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "лучше в миксах"
+      ],
+      "one_liner": "Непонятный вкус киви, быстро улетучивается, лучше в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Tik Tak",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/tik-tak",
+    "rating": 3.5,
+    "reviews_count": 41,
+    "summary": {
+      "profiles": [
+        "citrus",
+        "fresh",
+        "candy"
+      ],
+      "sweetness": 3,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 3,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "свежий вкус",
+        "хорош в миксах",
+        "не приторный"
+      ],
+      "cons": [
+        "не яркий вкус",
+        "мята не ощущается"
+      ],
+      "best_pairings": [
+        "кола",
+        "цитрусы",
+        "сладкие миксы"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "не перегревать"
+      ],
+      "one_liner": "Свежий кислый вкус, отлично подходит для разнообразия в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Cherry Shock",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/cherry-shock",
+    "rating": 2.9,
+    "reviews_count": 77,
+    "summary": {
+      "profiles": [
+        "berry",
+        "sour",
+        "fruit"
+      ],
+      "sweetness": 2,
+      "sourness": 4,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "хороша в миксах",
+        "неплохая вишня",
+        "можно курить"
+      ],
+      "cons": [
+        "ужасный запах",
+        "кислый вкус"
+      ],
+      "best_pairings": [
+        "фрукты",
+        "ягоды",
+        "сладкие миксы"
+      ],
+      "setup_notes": [
+        "добавлять в небольших количествах",
+        "не пробовать в соло"
+      ],
+      "one_liner": "Кислая вишня, лучше в миксах, может иметь неприятный запах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Red Kiwi",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/red-kiwi",
+    "rating": 3.47,
+    "reviews_count": 63,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "berry",
+        "fresh"
+      ],
+      "sweetness": 3,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "хорошая основа",
+        "можно в лимонадные миксы",
+        "неплохой вкус"
+      ],
+      "cons": [
+        "водянисто",
+        "не для соло"
+      ],
+      "best_pairings": [
+        "лимонад",
+        "фрукты",
+        "ягоды"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "не перегревать"
+      ],
+      "one_liner": "Кисло-сладкий вкус красного киви, хорошо в лимонадных миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Pistachio Ice Snow",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/pistachio-ice-snow",
+    "rating": 2.45,
+    "reviews_count": 53,
+    "summary": {
+      "profiles": [
+        "creamy",
+        "fruit"
+      ],
+      "sweetness": 2,
+      "sourness": 1,
+      "cooling": 5,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "нежный вкус",
+        "ореховый профиль"
+      ],
+      "cons": [
+        "сильный холод",
+        "невыразительный вкус"
+      ],
+      "best_pairings": [
+        "мороженое",
+        "фрукты",
+        "ягоды"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "подходит для миксов"
+      ],
+      "one_liner": "Нежный орехово-сливочный вкус с сильным холодком, но не хватает выраженности."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Summer basket",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/summer-basket",
+    "rating": 2.75,
+    "reviews_count": 29,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 2,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "аромат арбуза",
+        "легкий"
+      ],
+      "cons": [
+        "странный вкус",
+        "невыразительный"
+      ],
+      "best_pairings": [
+        "ягоды",
+        "цитрусы",
+        "мелисса"
+      ],
+      "setup_notes": [
+        "разный вкус на разном жаре",
+        "не для соло"
+      ],
+      "one_liner": "Арбуз с ягодами, но вкус не всегда раскрывается."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Berry Lemonade",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/berry-lemonade",
+    "rating": 2.35,
+    "reviews_count": 27,
+    "summary": {
+      "profiles": [
+        "berry"
+      ],
+      "sweetness": 2,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "можно смешивать",
+        "ягодный профиль"
+      ],
+      "cons": [
+        "мыльный вкус",
+        "быстро надоедает"
+      ],
+      "best_pairings": [
+        "арбуз",
+        "лимон",
+        "мелисса"
+      ],
+      "setup_notes": [
+        "не для соло",
+        "холод может помочь"
+      ],
+      "one_liner": "Ягодный лимонад с мыльным привкусом, лучше в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "It’s Not Black Currant",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/its-not-black-currant",
+    "rating": 3.1,
+    "reviews_count": 26,
+    "summary": {
+      "profiles": [
+        "berry"
+      ],
+      "sweetness": 2,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "легкая кислинка",
+        "можно в миксах"
+      ],
+      "cons": [
+        "не похоже на смородину",
+        "размытый вкус"
+      ],
+      "best_pairings": [
+        "ягоды",
+        "чай",
+        "лимон"
+      ],
+      "setup_notes": [
+        "подходит для миксов",
+        "не соло"
+      ],
+      "one_liner": "Кисло-сладкий вкус, но не похоже на красную смородину."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Cherry Garden",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/cherry-garden",
+    "rating": 2.88,
+    "reviews_count": 54,
+    "summary": {
+      "profiles": [
+        "berry"
+      ],
+      "sweetness": 2,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "вишневый вкус",
+        "можно в миксах"
+      ],
+      "cons": [
+        "пустой вкус",
+        "не соответствует ожиданиям"
+      ],
+      "best_pairings": [
+        "ягоды",
+        "чай",
+        "лимон"
+      ],
+      "setup_notes": [
+        "не для соло",
+        "можно смешивать"
+      ],
+      "one_liner": "Вишневый вкус, который может удивить в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Blackberry Lemonade",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/blackberry-lemonade",
+    "rating": 2.17,
+    "reviews_count": 47,
+    "summary": {
+      "profiles": [
+        "berry"
+      ],
+      "sweetness": 2,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 2,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "можно смешивать",
+        "ягодный профиль"
+      ],
+      "cons": [
+        "мыльный вкус",
+        "невыразительный"
+      ],
+      "best_pairings": [
+        "лимонад",
+        "ягоды",
+        "мелисса"
+      ],
+      "setup_notes": [
+        "не для соло",
+        "холод может помочь"
+      ],
+      "one_liner": "Ежевика с мыльным привкусом, лучше в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Watermelon",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/watermelon",
+    "rating": 2.42,
+    "reviews_count": 29,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 2,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 2,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "сочный арбуз",
+        "можно в миксах"
+      ],
+      "cons": [
+        "химозный вкус",
+        "невыразительный"
+      ],
+      "best_pairings": [
+        "ягоды",
+        "лимон",
+        "мелисса"
+      ],
+      "setup_notes": [
+        "не для соло",
+        "можно смешивать"
+      ],
+      "one_liner": "Арбуз с химозным привкусом, лучше в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Something Sweet",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/something-sweet",
+    "rating": 2.33,
+    "reviews_count": 20,
+    "summary": {
+      "profiles": [
+        "dessert"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 2,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "сладкий вкус",
+        "можно в миксах"
+      ],
+      "cons": [
+        "невыразительный",
+        "не для всех"
+      ],
+      "best_pairings": [
+        "лимон",
+        "фрукты",
+        "ягоды"
+      ],
+      "setup_notes": [
+        "не для соло",
+        "можно смешивать"
+      ],
+      "one_liner": "Сладкий вкус варенья, лучше в сочетании с кислым."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Bubblegum",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/bubblegum",
+    "rating": 1.65,
+    "reviews_count": 38,
+    "summary": {
+      "profiles": [
+        "candy"
+      ],
+      "sweetness": 2,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 1,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "можно смешивать"
+      ],
+      "cons": [
+        "химозный вкус",
+        "невыразительный"
+      ],
+      "best_pairings": [
+        "фрукты",
+        "ягоды",
+        "лимон"
+      ],
+      "setup_notes": [
+        "не для соло",
+        "можно смешивать"
+      ],
+      "one_liner": "Жвачка с химозным привкусом, лучше в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Apple Shock",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/apple-shock",
+    "rating": 1.73,
+    "reviews_count": 69,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 1,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 1,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "можно смешивать"
+      ],
+      "cons": [
+        "плохой вкус",
+        "невыразительный"
+      ],
+      "best_pairings": [
+        "лимон",
+        "мелисса",
+        "ягоды"
+      ],
+      "setup_notes": [
+        "не для соло",
+        "можно смешивать"
+      ],
+      "one_liner": "Яблочный вкус с кислотой, лучше в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Cream corn",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/cream-corn",
+    "rating": 2.33,
+    "reviews_count": 4,
+    "summary": {
+      "profiles": [
+        "dessert",
+        "creamy",
+        "fruit"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 2,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "уютный вкус",
+        "домашняя атмосфера"
+      ],
+      "cons": [
+        "легко перегревается",
+        "неприятный привкус"
+      ],
+      "best_pairings": [
+        "сливки",
+        "фрукты",
+        "десерты"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "лучше в миксе"
+      ],
+      "one_liner": "Уютный вкус домашней кукурузы, но требует аккуратности при курении."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Mirinda",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/mirinda",
+    "rating": 2.65,
+    "reviews_count": 54,
+    "summary": {
+      "profiles": [
+        "citrus",
+        "beverage"
+      ],
+      "sweetness": 2,
+      "sourness": 2,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "освежающий вкус",
+        "необычное сочетание"
+      ],
+      "cons": [
+        "кислый привкус",
+        "слабая ароматика"
+      ],
+      "best_pairings": [
+        "апельсин",
+        "лимон",
+        "мята"
+      ],
+      "setup_notes": [
+        "лучше в соло",
+        "не перегревать"
+      ],
+      "one_liner": "Кисло-сладкий вкус мандариновой газировки, но не дотягивает до оригинала."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Something Icy",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/something-icy",
+    "rating": 2.62,
+    "reviews_count": 11,
+    "summary": {
+      "profiles": [
+        "fresh"
+      ],
+      "sweetness": 1,
+      "sourness": 0,
+      "cooling": 3,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 2,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "холодок",
+        "освежающий эффект"
+      ],
+      "cons": [
+        "слабый вкус",
+        "неприятный привкус"
+      ],
+      "best_pairings": [
+        "мята",
+        "фрукты",
+        "цитрусы"
+      ],
+      "setup_notes": [
+        "добавлять больше для эффекта",
+        "не перегревать"
+      ],
+      "one_liner": "Холодный вкус, но требует много табака для ощущения."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Almond Pear",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/almond-pear",
+    "rating": 1.0,
+    "reviews_count": 1,
+    "summary": {
+      "profiles": [
+        "fruit",
+        "creamy"
+      ],
+      "sweetness": 2,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 2,
+      "longevity": 1,
+      "complexity": 1,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "необычное сочетание"
+      ],
+      "cons": [
+        "слабый вкус",
+        "разочарование"
+      ],
+      "best_pairings": [
+        "сливки",
+        "фрукты",
+        "орехи"
+      ],
+      "setup_notes": [
+        "не перегревать",
+        "лучше в миксе"
+      ],
+      "one_liner": "Слабый вкус груши и миндаля, требует дополнений."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Muesli",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/muesli",
+    "rating": 3.23,
+    "reviews_count": 47,
+    "summary": {
+      "profiles": [
+        "dessert",
+        "creamy"
+      ],
+      "sweetness": 3,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 3,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "приятный вкус",
+        "хорошая десертная база"
+      ],
+      "cons": [
+        "соло пресновато",
+        "слабый вкус"
+      ],
+      "best_pairings": [
+        "фрукты",
+        "сливки",
+        "ягоды"
+      ],
+      "setup_notes": [
+        "добавлять фрукты для насыщенности",
+        "не перегревать"
+      ],
+      "one_liner": "Нежный вкус мюсли, лучше в миксе с фруктами."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "After 8",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/after-8",
+    "rating": 4.12,
+    "reviews_count": 37,
+    "summary": {
+      "profiles": [
+        "dessert",
+        "creamy"
+      ],
+      "sweetness": 3,
+      "sourness": 0,
+      "cooling": 1,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "solo",
+        "mix"
+      ],
+      "pros": [
+        "хорошее сочетание",
+        "освежающий вкус"
+      ],
+      "cons": [
+        "может быть химозным",
+        "трудно найти"
+      ],
+      "best_pairings": [
+        "шоколад",
+        "мята",
+        "сливки"
+      ],
+      "setup_notes": [
+        "можно курить в соло",
+        "не перегревать"
+      ],
+      "one_liner": "Сочетание шоколада и мяты, освежающий и сладкий вкус."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Irish Cream",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/irish-cream",
+    "rating": 3.73,
+    "reviews_count": 44,
+    "summary": {
+      "profiles": [
+        "creamy",
+        "dessert"
+      ],
+      "sweetness": 3,
+      "sourness": 0,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 3,
+      "longevity": 3,
+      "complexity": 3,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "алкогольная нотка",
+        "мягкий вкус"
+      ],
+      "cons": [
+        "может быть слишком сладким",
+        "недолговечный вкус"
+      ],
+      "best_pairings": [
+        "сливки",
+        "фрукты",
+        "десерты"
+      ],
+      "setup_notes": [
+        "добавлять сливки для улучшения",
+        "не перегревать"
+      ],
+      "one_liner": "Сливочный вкус с легкой алкогольной ноткой, хорошо в миксах."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Pudding",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/pudding",
+    "rating": 2.75,
+    "reviews_count": 41,
+    "summary": {
+      "profiles": [
+        "dessert",
+        "creamy"
+      ],
+      "sweetness": 2,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 2,
+      "longevity": 2,
+      "complexity": 2,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "можно использовать в миксах"
+      ],
+      "cons": [
+        "слабый вкус",
+        "не соответствует ожиданиям"
+      ],
+      "best_pairings": [
+        "фрукты",
+        "ягоды",
+        "сливки"
+      ],
+      "setup_notes": [
+        "добавлять фрукты для улучшения",
+        "не перегревать"
+      ],
+      "one_liner": "Слабый вкус пудинга, лучше в сочетании с другими ароматами."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Almond Icecream",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/almond-icecream",
+    "rating": 2.6,
+    "reviews_count": 48,
+    "summary": {
+      "profiles": [
+        "creamy"
+      ],
+      "sweetness": 2,
+      "sourness": 0,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 2,
+      "longevity": 2,
+      "complexity": 1,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "можно использовать в миксах"
+      ],
+      "cons": [
+        "слабый вкус",
+        "неприятная сливочная нота"
+      ],
+      "best_pairings": [
+        "фрукты",
+        "сливки",
+        "десерты"
+      ],
+      "setup_notes": [
+        "добавлять для улучшения",
+        "не перегревать"
+      ],
+      "one_liner": "Слабый вкус миндального мороженого, требует дополнений."
+    }
+  },
+  {
+    "brand": "Black Burn",
+    "flavor": "Tropic Jack",
+    "line": "Основная",
+    "url": "https://htreviews.org/tobaccos/black-burn/black-burn-main/tropic-jack",
+    "rating": 2.38,
+    "reviews_count": 18,
+    "summary": {
+      "profiles": [
+        "fruit"
+      ],
+      "sweetness": 2,
+      "sourness": 1,
+      "cooling": 0,
+      "strength_feel": 2,
+      "heat_resistance": 2,
+      "mixability": 1,
+      "longevity": 1,
+      "complexity": 1,
+      "best_usage": [
+        "mix"
+      ],
+      "pros": [
+        "может быть интересным в миксах"
+      ],
+      "cons": [
+        "пустой вкус",
+        "невыразительный"
+      ],
+      "best_pairings": [
+        "фрукты",
+        "ягоды",
+        "цитрусы"
+      ],
+      "setup_notes": [
+        "добавлять для улучшения",
+        "не перегревать"
+      ],
+      "one_liner": "Слабый и невнятный вкус, требует дополнений для раскрытия."
+    }
+  }
+]
